@@ -18,4 +18,4 @@
 
 
 [twitter]: https://twitter.com/Marzelonn
-[linkedin]: linkedin.com/in/jaffer-sathick-6727a31ab
+[linkedin]: https://www.linkedin.com/in/jaffer-sathick-6727a31ab/
