@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 👀 I’m interested in Web development & data science
 - ⚡ Fun fact: I love to sing
 
