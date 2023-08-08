@@ -1,2 +1,5 @@
-### Hi there 👋 
-i enjoy reporting bots and spammers in youtube
+### Hi there 👋
+wanna know about me? 
+just ask me 
+
+
