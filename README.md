@@ -1,2 +1,3 @@
-HELLO THERE!!
-i haven't accomplished significant feats to awe others, aside from a handful of small projects. however, i'm enthusiastic about acquiring fresh knowledge and delving into the coding community to broaden my horizons. 
+Just a guy wandering the internet in search of interesting things. I love exploring new ideas, technologies, and connecting with like-minded individuals.
+
+[Twitter](https://twitter.com/marzelonnn) | [Email](mailto:marzelon44@gmail.com)
