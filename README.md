@@ -42,7 +42,7 @@ Just a guy wandering the internet in search of interesting things. I love explor
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-read-me-stats-18pv.vercel.app/api?username=xmarzz&show_icons=true&theme=radical&hide_border=true" alt="Marz's Stats" />
+  <img src="https://my-read-me-stats-18pv.vercel.app/api?username=xmarzz&show_icons=true&theme=radical&hide_border=true" alt="Marz's Stats" /> &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://my-read-me-stats-18pv.vercel.app/api/top-langs/?username=xmarzz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
