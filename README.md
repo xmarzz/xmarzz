@@ -39,13 +39,14 @@ Just a guy wandering the internet in search of interesting things. I love explor
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jaffer&fontSize=70&animation=fadeIn" />
 </p>
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmarzz&show_icons=true&theme=radical&hide_border=true" alt="Jaffer's Stats" />
+  <img src="https://my-read-me-stats-18pv.vercel.app/api?username=xmarzz&show_icons=true&theme=radical&hide_border=true" alt="Marz's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmarzz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://my-read-me-stats-18pv.vercel.app/api/top-langs/?username=xmarzz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+
