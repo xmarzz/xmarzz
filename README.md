@@ -36,7 +36,7 @@ Just a guy wandering the internet in search of interesting things. I love explor
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jaffer&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Marz&fontSize=70&animation=fadeIn" />
 </p>
 
 ### 📊 GitHub Stats
